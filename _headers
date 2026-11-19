@@ -1,0 +1,17 @@
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
+
+# APK 必须每次校验，否则 CDN 会把旧包缓存住，用户安装后还是旧版本
+/download/*.apk
+  Cache-Control: public, max-age=0, must-revalidate
+  Content-Type: application/vnd.android.package-archive
+
+# 截图和图标可以长缓存
+/assets/*
+  Cache-Control: public, max-age=604800
+
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate

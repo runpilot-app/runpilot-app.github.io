@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /download/
-
-Sitemap: https://runpilot-app.github.io/sitemap.xml

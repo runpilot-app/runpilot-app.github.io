@@ -6,11 +6,11 @@
 
 免 root · 免刷机 · 数据只存本机
 
-[![version](https://img.shields.io/github/v/release/runpilot-app/runpilot-app.github.io?label=version&color=09090B)](../../releases)
+[![version](https://img.shields.io/github/v/release/runpilot-app/runpilot-app.github.io?label=version&color=09090B)](https://github.com/runpilot-app/runpilot-app.github.io/releases)
 ![platform](https://img.shields.io/badge/Android-8.0%2B-3DDC84)
 ![root](https://img.shields.io/badge/root-免root-blue)
 
-[官网](https://runpilot.cn/) · [下载](https://runpilot.cn/) · [更新日志](../../releases) · [问题反馈](../../issues)
+[官网](https://runpilot.cn/) · [下载](https://runpilot.cn/) · [更新日志](https://github.com/runpilot-app/runpilot-app.github.io/releases) · [问题反馈](https://github.com/runpilot-app/runpilot-app.github.io/issues)
 
 </div>
 
@@ -56,8 +56,8 @@ RunPilot 是一款**免 root 的安卓自动化脚本工具**。
 
 | 渠道 | 地址 |
 |---|---|
-| 官网（推荐） | https://runpilot.cn/ |
-| GitHub Releases | 见本仓库 [Releases](../../releases) 页 |
+| **官网（推荐）** | [https://runpilot.cn/](https://runpilot.cn/) |
+| GitHub Releases | [前往 Releases 下载](https://github.com/runpilot-app/runpilot-app.github.io/releases) |
 
 **系统要求**：Android 8.0 及以上，ARM 架构（arm64-v8a / armeabi-v7a）
 
@@ -68,8 +68,8 @@ RunPilot 是一款**免 root 的安卓自动化脚本工具**。
 1. 安装 APK，在系统设置里授予「无障碍」权限
 2. 打开任意脚本，点右上角菜单 → **用 AI 写脚本**
 3. 描述需求，例如：`打开微信，点「我」→ 每日签到 → 领取积分`
-4. 选择已安装的 AI 应用，点发送，把生成结果粘回编辑器
-5. 点运行
+4. 点「发送给 AI」，自动打开手机上已安装的 AI 应用
+5. 在 AI 应用里按发送，生成后把代码粘回编辑器，点运行
 
 **全程不需要写代码。** 生成的结果不对，改一句描述再试即可。
 
@@ -104,8 +104,8 @@ App 改版会导致查找条件失效，通常修改一下文字或图片特征�
 
 ## 反馈
 
-- 邮箱：svipl688@foxmail.com
-- 问题与建议：本仓库 [Issues](../../issues)
+- 邮箱：[svipl688@foxmail.com](mailto:svipl688@foxmail.com)
+- 问题与建议：[提交 Issue](https://github.com/runpilot-app/runpilot-app.github.io/issues)
 
 ---
 

@@ -4,7 +4,7 @@
 
 **说一句需求，AI 帮你写安卓自动化脚本**
 
-免 root · 免电脑 · 数据只存本机
+免 root · 无需电脑 · 数据只存本机
 
 [![version](https://img.shields.io/github/v/release/runpilot-app/runpilot-app.github.io?label=version&color=09090B)](https://github.com/runpilot-app/runpilot-app.github.io/releases)
 ![platform](https://img.shields.io/badge/Android-8.0%2B-3DDC84)
